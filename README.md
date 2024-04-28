@@ -1,3 +1,3 @@
 # Static-Website
 
-![image](architecture.png)
+![image](Local Disk)(C:)\Users\User\Pictures\architecture.png)
