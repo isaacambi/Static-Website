@@ -6,7 +6,7 @@
 3. Navigate to the S3 service in the AWS management console
 4. Click on Create bucket
 
-![image](cloudfront.png)
+![image](cloudfront.jpg)
 
 6. provide a unique name for your bucket and select the AWS Region where you want to create the bucket
 7. Select Acls (enabled)
