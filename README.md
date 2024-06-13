@@ -16,6 +16,10 @@
 ![image](unique.png)
 
 
+
+
+
+
 7. Select Acls (enabled)
 8. You will see the block all public access settings. By default, all options under this setting are checked to prevent pubblic access
    1. Uncheck the "Block all public access option". This action will automatically uncheck all related actions beneath it
