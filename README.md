@@ -6,6 +6,8 @@
 3. Navigate to the S3 service in the AWS management console
 4. Click on Create bucket
 
+![image](cloudfront.png)
+
 
 
 
