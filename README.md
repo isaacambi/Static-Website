@@ -98,4 +98,6 @@ This is the Link to the contents that you need to upload
 
 <a href="https://github.com/techiecoder2079/Nerflix-website">Nerflix Website Repository</a>
 
+Go to the Objects tab & Click Upload to upload your static website files (HTML, CSS, JavaScript, images, etc.).
+
 
