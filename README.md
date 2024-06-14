@@ -36,4 +36,9 @@
 
 ![image](click.png)
 
+9. To allow public access, you will need to add a bucket policy explicitly granting such permissions
+10. In the s3 dashboard, click on your newly created bucket's name
+
+![image](newbucket.png)
+
 
