@@ -94,6 +94,8 @@ Add your bucket name instead of watchmanzik
    
 ![image](staticweb.png)
 
+This is the Link to the contents that you need to upload
+
 <a href="https://github.com/techiecoder2079/Nerflix-website">Nerflix Website Repository</a>
 
 
