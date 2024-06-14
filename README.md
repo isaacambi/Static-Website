@@ -65,3 +65,5 @@
   ]
 }
 ```
+
+This policy will allow public access to all objects in your S3 objects
