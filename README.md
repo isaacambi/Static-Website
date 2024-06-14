@@ -84,3 +84,12 @@ Add your bucket name instead of watchmanzik
 16. Scroll down to find the static website hosting option and click on edit
 
 ![image](staticimage.png)
+
+17. Select Enable to enable static website hosting &
+    1. Choose Host a Static website. Here, you will be prompted to enter:
+       1. Index document:the name of your homepage document(index.html). This is the file served when visitors access the root url of your website
+       2. Error document(optional): The name of the HTML file to show when an error occurs(e.g error.html).This is not mandatory but recommended for handling HTTP errors
+    2. (Optional) If you have a custom error document, fill in the error document field.
+    3. Click save changes
+   
+![image](staticweb.png)
