@@ -80,3 +80,7 @@ Add your bucket name instead of watchmanzik
 15. Let us enable static website hosting, click on the properties tab
 
 ![image](properties.png)
+
+16. Scroll down to find the static website hosting option and click on edit
+
+![image](staticimage.png)
