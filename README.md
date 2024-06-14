@@ -22,8 +22,6 @@
 ![image](acl.png)
 
 
-![image](acknowledge.png)
-
 
 7. You will see the block all public access settings. By default, all options under this setting are checked to prevent pubblic access
    1. Uncheck the "Block all public access option". This action will automatically uncheck all related actions beneath it
@@ -31,5 +29,7 @@
    4. check the acknowlegement box to confirm that you understand the consequences of enabling public access to your bucket
   
 ![image](block.png)
+
+![image](acknowledge.png)
 
 
