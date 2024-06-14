@@ -71,3 +71,12 @@ This policy will allow public access to all objects in your S3 objects
 Add your bucket name instead of watchmanzik
 
 ![image](bucketpolicy.png)
+
+14. To save your bucket policy, at the bottom of the page, click save changes
+    the bucket overview page will load and you will see a notification that the policy has been edited
+
+    note: if you see an error, ensure that the bucket name has been correctly entered into the policy
+
+15. Let us enable static website hosting, click on the properties tab
+
+![image](properties.png)
