@@ -32,4 +32,8 @@
 
 ![image](acknowledge.png)
 
+8. Click create bucket to finalize the bucket creation process
+
+![image](click.png)
+
 
