@@ -41,4 +41,8 @@
 
 ![image](newbucket.png)
 
+11. Go to the Permissions tab
+
+![image](permission.png)
+
 
