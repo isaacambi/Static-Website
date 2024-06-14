@@ -51,7 +51,8 @@
 
 13. In the policy, copy and paste the following and replace YOUR_BUCKET_NAME with the name of your S3 bucket:
 
-'''{
+'''
+{
   "Version": "2012-10-17",
   "Statement": [
     {
@@ -62,4 +63,5 @@
       "Resource": "arn:aws:s3:::YOUR_BUCKET_NAME/*"
     }
   ]
-}'''
+}
+'''
