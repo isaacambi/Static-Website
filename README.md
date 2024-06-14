@@ -100,4 +100,8 @@ This is the Link to the contents that you need to upload
 
 Go to the Objects tab & Click Upload to upload your static website files (HTML, CSS, JavaScript, images, etc.).
 
+18. Click on Add files to add files to S3 Bucket
+
+![image](loadup.png)
+
 
