@@ -45,4 +45,6 @@
 
 ![image](permission.png)
 
+12. Scroll to the bucket policy section and click "Edit"
 
+![image](edit.png)
