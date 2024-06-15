@@ -192,3 +192,11 @@ Note: You can safely ignore the Custom SSL Certificate error
 8. Scroll down to Settings, and in the Price class selection, select Use only North America and Europe
 
 ![image](webapp.png)
+
+9. In the Default root object field, enter index.html.
+
+CloudFront will serve the default root object when the base distribution URL is requested
+
+You are setting this field because Amazon CloudFront doesn’t always transparently relay 
+requests to the origin. If you did not set a default root object on the distribution you would
+see an AccessDenied error when you access the CloudFront distribution’s domain later in this lab step.
