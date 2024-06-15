@@ -159,3 +159,5 @@ The Amazon CloudFront console will load.
 
 Note: If you see a warning regarding the S3 website endpoint, you can safely ignore the message
 and keep moving forward
+
+![image](origin.png)
