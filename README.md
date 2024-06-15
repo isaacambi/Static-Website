@@ -190,3 +190,5 @@ default values.
 Note: You can safely ignore the Custom SSL Certificate error
 
 8. Scroll down to Settings, and in the Price class selection, select Use only North America and Europe
+
+![image](webapp.png)
