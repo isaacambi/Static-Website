@@ -136,3 +136,15 @@ Go to the Objects tab & Click Upload to upload your static website files (HTML, 
 ![image](avenger.png)
 
 # AMAZON CLOUDFRONT
+ Amazon CloudFront is a global Content Delivery Network (CDN) that delivers data securely 
+ and efficiently. CloudFront pulls your website out to the edge of the network, reducing 
+ latency when accessed from different global locations.
+
+In this last step, you will set up an Amazon CloudFront distribution for your static site
+hosted in your Amazon S3 bucket, update the bucket policy to allow access to the CloudFront 
+distribution, and update permissions to block public access to the S3 bucket.
+
+## Instructions
+1.  In the AWS Management Console search bar, enter CloudFront, and click the CloudFront result under Services:
+
+![image](cloud.png)
