@@ -148,3 +148,8 @@ distribution, and update permissions to block public access to the S3 bucket.
 1.  In the AWS Management Console search bar, enter CloudFront, and click the CloudFront result under Services:
 
 ![image](cloud.png)
+
+The Amazon CloudFront console will load.
+2. To start creating a distribution, click Create a CloudFront Distribution:
+
+![image](create.png)
