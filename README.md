@@ -125,3 +125,6 @@ Go to the Objects tab & Click Upload to upload your static website files (HTML, 
 ![image](prop.png)
 
 
+   2. You’ll see a Bucket website endpoint URL. This URL is the public address of your static website.
+
+![image](url.png)
