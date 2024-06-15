@@ -168,3 +168,10 @@ Warning: If you don’t see the S3 bucket in the origins list, manually enter th
 4. Under Origin, in the Origin access, select Origin access control settings and click Create new OAC:
 
 ![image](originaccess.png)
+
+5. Under Create control setting, enter the following values:
+
+    Name: by Default it will have
+    Signing behavior: Ensure Sign requests is selected
+
+![image](oac.png)
