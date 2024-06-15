@@ -112,6 +112,8 @@ Go to the Objects tab & Click Upload to upload your static website files (HTML, 
 ![image](initialcommand.png)
 
 
+![image](s3sync.png)
+
 ![image](file.png)
 
 
