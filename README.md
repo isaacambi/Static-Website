@@ -109,8 +109,9 @@ Go to the Objects tab & Click Upload to upload your static website files (HTML, 
    install git on your instance > clone the repository > git clone https://github.com/techiecoder2079/Nerflix-website.git
    cd Nerflix-website > aws s3 sync Nerflix-website.git s3://watchmanzik/
 
-![image](file.png)
-
 ![image](initialcommand.png)
+
+
+![image](file.png)
 
 
