@@ -200,3 +200,5 @@ CloudFront will serve the default root object when the base distribution URL is 
 You are setting this field because Amazon CloudFront doesn’t always transparently relay 
 requests to the origin. If you did not set a default root object on the distribution you would
 see an AccessDenied error when you access the CloudFront distribution’s domain later in this lab step.
+
+![image](index.png)
