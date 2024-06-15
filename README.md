@@ -161,3 +161,10 @@ Note: If you see a warning regarding the S3 website endpoint, you can safely ign
 and keep moving forward
 
 ![image](origin.png)
+
+Warning: If you don’t see the S3 bucket in the origins list, manually enter the following:
+<name_of_the_bucket>.s3.amazonaws.com
+
+4. Under Origin, in the Origin access, select Origin access control settings and click Create new OAC:
+
+![image](originaccess.png)
