@@ -104,4 +104,11 @@ Go to the Objects tab & Click Upload to upload your static website files (HTML, 
 
 ![image](loadup.png)
 
+19. If you are using AWS-CLI to upload your file, then you have to launch an instance, say ubuntu, for example
+   create an IAM USER > generate Access keys > use aws configure command > fill in your access key ID and secret access keys
+   install git on your instance > clone the repository > git clone https://github.com/techiecoder2079/Nerflix-website.git
+   cd Nerflix-website > aws s3 sync Nerflix-website.git s3://watchmanzik/
+
+![image](file.png)
+
 
