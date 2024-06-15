@@ -175,3 +175,18 @@ Warning: If you don’t see the S3 bucket in the origins list, manually enter th
     Signing behavior: Ensure Sign requests is selected
 
 ![image](oac.png)
+
+Origin access control secures S3 origins by allowing access to only designated 
+distributions. This follows AWS best practice of using IAM service principals to authenticate
+with S3 origins.
+
+6. Click create
+
+Leave all other fields in this section as well as the Default cache behavior section as their 
+default values.
+
+7. Select Do not enable security protections under Web Application Firewall (WAF):
+
+Note: You can safely ignore the Custom SSL Certificate error
+
+8. Scroll down to Settings, and in the Price class selection, select Use only North America and Europe
