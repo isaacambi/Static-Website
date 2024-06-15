@@ -119,3 +119,9 @@ Go to the Objects tab & Click Upload to upload your static website files (HTML, 
 ![image](folder.png)
 
 
+20. Access website in your web browser
+    1. Go back to the Properties tab and scroll down to the Static website hosting section.
+   
+![image](prop.png)
+
+
