@@ -153,3 +153,9 @@ The Amazon CloudFront console will load.
 2. To start creating a distribution, click Create a CloudFront Distribution:
 
 ![image](create.png)
+
+3. Under Origin, in the Origin Domain text-box, enter the Amazon S3 static website hosting
+    endpoint that you created earlier:
+
+Note: If you see a warning regarding the S3 website endpoint, you can safely ignore the message
+and keep moving forward
